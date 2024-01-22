@@ -18,9 +18,7 @@ curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvis
   Open Terminal and run:
 curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > $HOME/Desktop/hikvision.py
 
-
-USAGE:
-Either:
+To use, You can either:
 
 1. Open CMD/Terminal and run: python Desktop/hikvision.py
 
