@@ -7,15 +7,15 @@ DISCLAIMER: Only use this on a camera that you OWN or have EXPLICIT PERMISSION t
 
 - INSTALLATION:
     For Windows:
-  Open CMD and run:
+  Open CMD and run: <br>
 curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > Desktop/hikvision.py
 
     For Linux:
-  Open Terminal and run:
+  Open Terminal and run: <br>
 curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > ~/Desktop/hikvision.py
 
     For MacOS:
-  Open Terminal and run:
+  Open Terminal and run: <br>
 curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > $HOME/Desktop/hikvision.py
 
 To use, You can either:
