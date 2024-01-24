@@ -6,15 +6,15 @@ It asks for the ip, password file, and concurrent workers(more=quicker requests)
 DISCLAIMER: Only use this on a camera that you OWN or have EXPLICIT PERMISSION to test on. Not meant to be used ilegally, use at your own risk.
 
 - INSTALLATION: <br>
- -    For Windows:<br>
+- For Windows:<br>
   Open CMD and run: <br>
-curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > Desktop/hikvision.py
-<br>
- -   For Linux:<br>
+curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > Desktop/hikvision.py<br>
+
+ - For Linux:<br>
   Open Terminal and run: <br>
 curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > ~/Desktop/hikvision.py<br>
 
- -   For MacOS:<br>
+ - For MacOS:<br>
   Open Terminal and run: <br>
 curl https://raw.githubusercontent.com/bytemaestr0/hikvisionpassword/main/hikvisionpass.py > $HOME/Desktop/hikvision.py<br>
 
